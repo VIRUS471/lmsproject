@@ -1,4 +1,4 @@
-module.exports {
-    // ? connection goes here 
-    mongoURI: 'mongodb:localhost:';
-}
+module.exports = {
+  // ? connection goes here
+  mongoURI: "mongodb:localhost:"
+};
