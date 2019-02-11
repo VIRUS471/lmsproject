@@ -1,0 +1,19 @@
+{
+  "name": "projectlms",
+  "version": "1.0.0",
+  "description": "an lms project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIRUS471/lmsproject.git"
+  },
+  "author": "CJ CORPUZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VIRUS471/lmsproject/issues"
+  },
+  "homepage": "https://github.com/VIRUS471/lmsproject#readme"
+}
